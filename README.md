@@ -1,3 +1,4 @@
+![logo](https://github.com/Debashis143/Debashis143/blob/main/eefec0ff5707e27490b17a25de8e5cee%5B1%5D.gif)
 <h1 align="center">Hi 👋, I'm Debashis Barik</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
